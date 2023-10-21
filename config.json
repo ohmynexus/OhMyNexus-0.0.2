@@ -1,0 +1,23 @@
+{
+   "owner": "6282177779477",
+   "owner_name": "addykece",
+   "database": "data",
+   "limit": 15,
+   "limit_game": 50,
+   "multiplier": 7,
+   "min_reward": 100000,
+   "max_reward": 500000,
+   "ram_limit": "1.5GB",
+   "max_upload": 50,
+   "max_upload_free": 10,
+   "cooldown": 3,
+   "timer": 180000,
+   "timeout": 1800000,
+   "blocks": ["994", "91", "92"],
+   "evaluate_chars": ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 6282135930493
+   },
+   "keepalive_url": ""
+}

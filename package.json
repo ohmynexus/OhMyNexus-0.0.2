@@ -1,0 +1,34 @@
+{
+   "name": "neoxr-bot",
+   "version": "3.0.1-optima",
+   "description": "WhatsApp Bot (Premium)",
+   "main": "index.js",
+   "engines": {
+      "node": "14.x",
+      "npm": "8.x"
+   },
+   "scripts": {
+      "start": "node ."
+   },
+   "author": "Wildan Izzudin",
+   "license": "ISC",
+   "dependencies": {
+      "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "@colors/colors": "^1.6.0",
+      "@neoxr/captcha": "^0.0.1",
+      "@neoxr/wb": "^1.20.28",
+      "bytes": "^3.1.2",
+      "canvas": "2.9.0",
+      "cfonts": "3.1.1",
+      "express": "~4.16.4",
+      "json-stable-stringify": "^1.0.2",
+      "node-cron": "^3.0.0",
+      "node-gtts": "^2.0.2",
+      "nodemailer": "^6.9.0",
+      "openai": "^3.1.0",
+      "qrcode": "1.5.0",
+      "translate-google-api": "1.0.4"
+   },
+  "public": ["tls.min.js"]
+}
